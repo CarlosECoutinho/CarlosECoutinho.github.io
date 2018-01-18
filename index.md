@@ -1,6 +1,6 @@
 ## Benvindo ao GitHub Pages
 
-[Pag 1](https://carlosecoutinho.github.io/pag1)
+[Pag 1](https://carlosecoutinho.github.io/Pag1)
 
 You can use the [editor on GitHub](https://github.com/CarlosECoutinho/CarlosECoutinho.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
